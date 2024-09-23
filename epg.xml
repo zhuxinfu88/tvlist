@@ -59274,6 +59274,9 @@
 	<programme channel="纯享4K" start="20240923184800 +0800" stop="20240923193700 +0800">
 		<title lang="zh">大运河之歌4K 第3集 运河中心时代</title>
 	</programme>
+	<programme channel="纯享4K" start="20240923193700 +0800" stop="20240923201900 +0800">
+		<title lang="zh">远方的家4K 长江行 水润华坪 物华天宝</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -69432,6 +69435,9 @@
 	<programme channel="黑莓动画" start="20240923193000 +0800" stop="20240923194600 +0800">
 		<title lang="zh">04_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240923194600 +0800" stop="20240923195700 +0800">
+		<title lang="zh">21_舒克贝塔地下之谜</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70131,6 +70137,9 @@
 	<programme channel="newtv超级电视剧" start="20240923190600 +0800" stop="20240923195100 +0800">
 		<title lang="zh">13_女人的抗战</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240923195100 +0800" stop="20240923203600 +0800">
+		<title lang="zh">14_女人的抗战</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -70205,6 +70214,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240923184800 +0800" stop="20240923193400 +0800">
 		<title lang="zh">24_花琉璃轶闻</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240923193400 +0800" stop="20240923202100 +0800">
+		<title lang="zh">01_三分野</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -70530,6 +70542,9 @@
 	<programme channel="newtv家庭剧场" start="20240923190400 +0800" stop="20240923193400 +0800">
 		<title lang="zh">《美丽密码》推荐第38期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240923193400 +0800" stop="20240923202700 +0800">
+		<title lang="zh">24_真情给你</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -70806,6 +70821,9 @@
 	<programme channel="newtv怡伴健康" start="20240923191100 +0800" stop="20240923194100 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240923194100 +0800" stop="20240923202600 +0800">
+		<title lang="zh">第六场 四川K2vs北京源莱慧 第2局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -71054,6 +71072,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240923185000 +0800" stop="20240923194000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240923194000 +0800" stop="20240923204000 +0800">
+		<title lang="zh">憨厚大爷酷爱瑜伽，阿姨直言和你在一起活的更长</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
