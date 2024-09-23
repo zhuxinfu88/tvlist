@@ -37,10 +37,10 @@ jobs:
       - name: Run iptv
         run: python ${{ github.workspace }}/set/script.py
          
-      - name: Commit results
+      - name: Commit resultsu
         run: |
             git config --local user.email "zhuxinfu@sohu.com"
-            git config --local user.name "zhixinfu88"
+            git config --local user.name "zhuxinfu88"
             if [ -n "$(git status --porcelain)" ]; then
             git commit -am "Automatic update"
             git pushzhuxinfu@sohu.com
