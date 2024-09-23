@@ -70011,6 +70011,9 @@
 	<programme channel="newtv超级体育" start="20240923183500 +0800" stop="20240923200000 +0800">
 		<title lang="zh">天下足球</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240923200000 +0800" stop="20240923213000 +0800">
+		<title lang="zh">实况录像-2024年世乒联冠军赛 中国澳门站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -70055,6 +70058,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240923180900 +0800" stop="20240923195500 +0800">
 		<title lang="zh">电影《荒野逃生》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240923195500 +0800" stop="20240923212100 +0800">
+		<title lang="zh">电影《黄金蜘蛛城》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
