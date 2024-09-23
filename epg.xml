@@ -70053,6 +70053,9 @@
 	<programme channel="newtv超级体育" start="20240923200000 +0800" stop="20240923213000 +0800">
 		<title lang="zh">实况录像-2024年世乒联冠军赛 中国澳门站 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240923213000 +0800" stop="20240923220500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71381,6 +71384,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240923184600 +0800" stop="20240923213900 +0800">
 		<title lang="zh">五十公里桃花坞第4季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240923213900 +0800" stop="20240923220900 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
