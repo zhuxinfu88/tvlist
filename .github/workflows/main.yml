@@ -39,11 +39,11 @@ jobs:
          
       - name: Commit results
         run: |
-            git config --local user.email "actions@github.com"
-            git config --local user.name "GitHub Action"
+            git config --local user.email "zhuxinfu@sohu.com"
+            git config --local user.name "zhixinfu88"
             if [ -n "$(git status --porcelain)" ]; then
             git commit -am "Automatic update"
-            git push
+            git pushzhuxinfu@sohu.com
             else
               echo "No changes detected, skipping commit."
             fi
