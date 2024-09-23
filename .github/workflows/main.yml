@@ -8,7 +8,7 @@ on:
       - main
       
 
-permissions: read-all
+permissions: write-all
 jobs:
   build:
     runs-on: ubuntu-latest
