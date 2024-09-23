@@ -121,6 +121,8 @@ for keyword in keywords:
                     for url in valid_ips:
                         new_data = data.replace("rtp://", f"{url}/rtp/")
                         new_file.write(new_data)
+                        new_data = data.replace("rtp://", f"{url}/udp/")
+                        new_file.write(new_data)
 
                 print(f'已生成播放列表，保存至 {txt_filename}')
 
