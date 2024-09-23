@@ -1,0 +1,28 @@
+name: EPG Fetcher
+
+on:
+  push:
+  schedule:
+    - cron: '30 1,3,5,7,9,11,13,15,17,19,21,23 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Fetch EPG Files
+      run: |
+        rm -f epg.xml
+        wget -O epg.xml https://epg.112114.xyz/pp.xml
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git add epg.xml
+        git commit -m "Update EPG files" || echo "No changes to commit"
+
+    - name: Push changes
+      run: |
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
