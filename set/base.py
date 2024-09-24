@@ -7,8 +7,8 @@ import aiohttp
 import cv2
 from bs4 import BeautifulSoup
 
-from iptv.config import IP_DIR, OUTPUT_DIR
-from iptv.playwright import get_playwright
+from config import IP_DIR, OUTPUT_DIR
+from playwright import get_playwright
 
 
 class Base:
