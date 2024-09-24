@@ -72,6 +72,9 @@
 	<programme channel="4K综艺" start="20240924091900 +0800" stop="20240924103900 +0800">
 		<title lang="zh">小小的追球20200107</title>
 	</programme>
+	<programme channel="4K综艺" start="20240924103900 +0800" stop="20240924115900 +0800">
+		<title lang="zh">小小的追球20200114</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -60507,6 +60510,9 @@
 	<programme channel="纯享4K" start="20240924102300 +0800" stop="20240924103800 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 马术图</title>
 	</programme>
+	<programme channel="纯享4K" start="20240924103800 +0800" stop="20240924110800 +0800">
+		<title lang="zh">美丽中国说4K 高山精灵</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -72528,6 +72534,9 @@
 	<programme channel="newtv超级综艺" start="20240924094300 +0800" stop="20240924104300 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240924104300 +0800" stop="20240924113300 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -72554,6 +72563,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240924093500 +0800" stop="20240924103300 +0800">
 		<title lang="zh">2024年公路自行车世锦赛-女子个人计时赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240924103300 +0800" stop="20240924120000 +0800">
+		<title lang="zh">实况录像-2024年世界田联钻石联赛 布鲁塞尔站1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -72627,6 +72639,9 @@
 	<programme channel="newtv超级电视剧" start="20240924100200 +0800" stop="20240924104500 +0800">
 		<title lang="zh">10_雁归西窗月</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240924104500 +0800" stop="20240924112800 +0800">
+		<title lang="zh">11_雁归西窗月</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -72665,6 +72680,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240924095500 +0800" stop="20240924104300 +0800">
 		<title lang="zh">11_乐游原</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240924104300 +0800" stop="20240924112600 +0800">
+		<title lang="zh">12_乐游原</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -72801,6 +72819,9 @@
 	<programme channel="newtv军旅剧场" start="20240924095900 +0800" stop="20240924103700 +0800">
 		<title lang="zh">21_谍战深海之惊蛰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240924103700 +0800" stop="20240924112000 +0800">
+		<title lang="zh">22_谍战深海之惊蛰</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -72842,6 +72863,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240924095500 +0800" stop="20240924104400 +0800">
 		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240924104400 +0800" stop="20240924113700 +0800">
+		<title lang="zh">17_我的爱对你说</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -73149,6 +73173,9 @@
 	<programme channel="newtv精品综合" start="20240924094300 +0800" stop="20240924103100 +0800">
 		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240924103100 +0800" stop="20240924111700 +0800">
+		<title lang="zh">42_长歌行</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -73196,6 +73223,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240924091400 +0800" stop="20240924104700 +0800">
 		<title lang="zh">邻家诗话第4季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240924104700 +0800" stop="20240924120600 +0800">
+		<title lang="zh">故事里的中国 第3季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -73286,6 +73316,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240924094300 +0800" stop="20240924103600 +0800">
 		<title lang="zh">46_少林寺传奇藏经阁</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240924103600 +0800" stop="20240924112400 +0800">
+		<title lang="zh">美国RN原装进口鲨鱼神经酸-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
