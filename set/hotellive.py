@@ -36,7 +36,7 @@ def make_request(region):
     data = {
         "saerch": region,
         "Submit": "+",
-        "city": "HeZhou",
+        "city": "ShaoXing",
         "address": "Ca94122"
     }
     response = requests.post(url, headers=headers, data=data, timeout=10)
