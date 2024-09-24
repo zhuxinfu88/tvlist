@@ -26,11 +26,6 @@ jobs:
         run: |
             pip install -r requirements.txt && playwright install && playwright install-deps
      
-      - name: Install dependencies   
-        run: |
-           pip install --upgrade pip
-           pip install playwright
-           playwright install
             
       - name: Get Currrent Date
         run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S %Z')" >> $GITHUB_ENV
