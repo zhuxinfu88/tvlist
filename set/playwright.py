@@ -1,6 +1,6 @@
 import logging
 
-from playwright.async_api import Playwright, async_playwright
+from playwright.async import Playwright, async_playwright
 
 logger = logging.getLogger(__name__)
 
