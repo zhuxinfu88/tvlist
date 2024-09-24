@@ -72639,6 +72639,9 @@
 	<programme channel="newtv超级综艺" start="20240924135300 +0800" stop="20240924151900 +0800">
 		<title lang="zh">典籍里的中国第2季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240924151900 +0800" stop="20240924164900 +0800">
+		<title lang="zh">乐在旅途</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -72782,6 +72785,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240924142800 +0800" stop="20240924151300 +0800">
 		<title lang="zh">28_天龙八部</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240924151300 +0800" stop="20240924155900 +0800">
+		<title lang="zh">29_天龙八部</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
