@@ -29,6 +29,8 @@ jobs:
         run: pip install Beautifulsoup4 requests 
       - name: Install dependencies
         run: pip install translate requests 
+      - name: Install dependencies
+        run: pip install github requests
         
       - name: Run hotel
         run: python ${{ github.workspace }}/set/hotellive.py
