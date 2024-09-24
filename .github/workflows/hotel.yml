@@ -32,7 +32,7 @@ jobs:
      
         
       - name: Install dependencies
-        run: ip install pyGithub requests
+        run: pip install pyGithub requests
         
       - name: Run hotel
         run: python ${{ github.workspace }}/set/hotellive.py
