@@ -36,8 +36,8 @@ def make_request(region):
     data = {
         "saerch": region,
         "Submit": "+",
-        "city": "ShaoXing",
-        "address": "Ca94122"
+        "city": "",
+        "address": ""
     }
     response = requests.post(url, headers=headers, data=data, timeout=10)
     if response.status_code == 200:
