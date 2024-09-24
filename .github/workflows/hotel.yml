@@ -30,7 +30,7 @@ jobs:
       - name: Install dependencies
         run: pip install translate requests 
         
-      - name: Run iptv
+      - name: Run hotel
         run: python ${{ github.workspace }}/set/hotellive.py
          
       - name: Commit results
