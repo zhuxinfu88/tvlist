@@ -60504,6 +60504,9 @@
 	<programme channel="纯享4K" start="20240924100800 +0800" stop="20240924102300 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 骑马射猎俑</title>
 	</programme>
+	<programme channel="纯享4K" start="20240924102300 +0800" stop="20240924103800 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 马术图</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71943,6 +71946,9 @@
 	<programme channel="黑莓动画" start="20240924095800 +0800" stop="20240924102500 +0800">
 		<title lang="zh">百变校巴8</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240924102500 +0800" stop="20240924111200 +0800">
+		<title lang="zh">汪汪队立大功第3季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72573,6 +72579,9 @@
 	<programme channel="newtv超级电影" start="20240924082700 +0800" stop="20240924101700 +0800">
 		<title lang="zh">情满天山</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240924101700 +0800" stop="20240924115900 +0800">
+		<title lang="zh">铭心岁月</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -72707,6 +72716,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240924095200 +0800" stop="20240924102600 +0800">
 		<title lang="zh">04_再进一个球！互联网人！</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240924102600 +0800" stop="20240924105100 +0800">
+		<title lang="zh">05_热气腾腾的家庭旅行</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -72866,6 +72878,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240924093900 +0800" stop="20240924102100 +0800">
 		<title lang="zh">19_女医明妃传</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240924102100 +0800" stop="20240924110300 +0800">
+		<title lang="zh">20_女医明妃传</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -73031,6 +73046,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240924092800 +0800" stop="20240924101800 +0800">
 		<title lang="zh">海天映初心 第3集 沧海英雄</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240924101800 +0800" stop="20240924111100 +0800">
+		<title lang="zh">海天映初心 第4集 碧海壮歌</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
