@@ -30,6 +30,9 @@ jobs:
       - name: Install dependencies
         run: pip install translate requests 
       - name: Install dependencies
+        run: pip3 install cython requests
+        
+      - name: Install dependencies
         run: pip install github requests
         
       - name: Run hotel
