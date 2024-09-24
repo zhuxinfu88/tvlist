@@ -33,7 +33,7 @@ jobs:
         run: pip3 install cython requests
         
       - name: Install dependencies
-        run: pip install github requests
+        run: ip install pyGithub
         
       - name: Run hotel
         run: python ${{ github.workspace }}/set/hotellive.py
