@@ -71970,6 +71970,9 @@
 	<programme channel="黑莓动画" start="20240924111200 +0800" stop="20240924113800 +0800">
 		<title lang="zh">钶龙战记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240924113800 +0800" stop="20240924120200 +0800">
+		<title lang="zh">百变布鲁可第4季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72555,6 +72558,9 @@
 	<programme channel="newtv超级综艺" start="20240924104300 +0800" stop="20240924113300 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240924113300 +0800" stop="20240924130300 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -72659,6 +72665,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240924104500 +0800" stop="20240924112800 +0800">
 		<title lang="zh">11_雁归西窗月</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240924112800 +0800" stop="20240924121200 +0800">
+		<title lang="zh">12_雁归西窗月</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -72807,6 +72816,9 @@
 	<programme channel="newtv古装剧场" start="20240924104900 +0800" stop="20240924113400 +0800">
 		<title lang="zh">26_新西厢记</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240924113400 +0800" stop="20240924122200 +0800">
+		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -72900,6 +72912,9 @@
 	<programme channel="newtv家庭剧场" start="20240924104400 +0800" stop="20240924113700 +0800">
 		<title lang="zh">17_我的爱对你说</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240924113700 +0800" stop="20240924122900 +0800">
+		<title lang="zh">18_我的爱对你说</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -72978,6 +72993,9 @@
 	<programme channel="newtv爱情喜剧" start="20240924104800 +0800" stop="20240924114100 +0800">
 		<title lang="zh">11_我，喜欢你</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240924114100 +0800" stop="20240924123300 +0800">
+		<title lang="zh">12_我，喜欢你</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -73052,6 +73070,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240924105500 +0800" stop="20240924114400 +0800">
 		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240924114400 +0800" stop="20240924123700 +0800">
+		<title lang="zh">24_好妻子</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -73256,6 +73277,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240924100900 +0800" stop="20240924113900 +0800">
 		<title lang="zh">袁天罡之不死军团</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240924113900 +0800" stop="20240924122700 +0800">
+		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
