@@ -10,8 +10,8 @@ from typing import List
 import aiohttp
 from pypinyin import lazy_pinyin
 
-from iptv.base import Base
-from iptv.config import IP_DIR, ISP_DICT, OUTPUT_DIR, REGION_LIST
+from base import Base
+from config import IP_DIR, ISP_DICT, OUTPUT_DIR, REGION_LIST
 
 logger = logging.getLogger(__name__)
 
