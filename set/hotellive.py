@@ -347,9 +347,9 @@ def main():
     sources = read_itv_file("./itvlist.txt")
     print(len(sources))
     if len(sources) < 500:
-        ip_addresses_beijing = make_request("绍兴")
-        ip_addresses_CHC = make_request("CMC")
-        ip_addresses = ip_addresses_zhejiang + ip_addresses_CHC
+        ip_addresses_beijing = make_request("浙江")
+        ip_addresses_CHC = make_request("CHC")
+        ip_addresses = ip_addresses_beijing + ip_addresses_CHC
         with open("./itv.txt", 'w', encoding='utf-8') as file:
             with ThreadPoolExecutor(max_workers=10) as executor:
                 futures = [executor.submit(parse_channels_and_sources, ip, file) for ip in ip_addresses]
