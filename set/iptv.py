@@ -8,7 +8,7 @@ from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 
 import requests
 
-from iptv.config import OUTPUT_DIR
+from config import OUTPUT_DIR
 
 logger = logging.getLogger(__name__)
 
