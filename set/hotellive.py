@@ -8,7 +8,6 @@ import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import defaultdict
 from datetime import datetime
-from github import Github
 import os
 
 # 随机获取User-Agent
