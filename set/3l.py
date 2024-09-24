@@ -2,8 +2,8 @@ import argparse
 import asyncio
 import logging
 
-from iptv.hotel import Hotel
-from iptv.udpxy import UDPxy
+from set.hotel import Hotel
+from set.udpxy import UDPxy
 
 logger = logging.getLogger(__name__)
 
