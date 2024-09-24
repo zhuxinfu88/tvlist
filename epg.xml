@@ -60501,6 +60501,9 @@
 	<programme channel="纯享4K" start="20240924090800 +0800" stop="20240924100800 +0800">
 		<title lang="zh">乐享汇4K “新的唱响”演唱会（十五）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240924100800 +0800" stop="20240924102300 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 骑马射猎俑</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -72741,6 +72744,9 @@
 	<programme channel="newtv古装剧场" start="20240924091500 +0800" stop="20240924100400 +0800">
 		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240924100400 +0800" stop="20240924104900 +0800">
+		<title lang="zh">25_新西厢记</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -72891,6 +72897,9 @@
 	<programme channel="newtv爱情喜剧" start="20240924092000 +0800" stop="20240924100900 +0800">
 		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240924100900 +0800" stop="20240924104800 +0800">
+		<title lang="zh">10_我，喜欢你</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -72911,6 +72920,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240924092700 +0800" stop="20240924101600 +0800">
 		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240924101600 +0800" stop="20240924114900 +0800">
+		<title lang="zh">怪兽2:史前异种</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -72957,6 +72969,9 @@
 	<programme channel="newtv怡伴健康" start="20240924094400 +0800" stop="20240924101200 +0800">
 		<title lang="zh">集市上的“秘方药”（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240924101200 +0800" stop="20240924105500 +0800">
+		<title lang="zh">23_好妻子</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72992,6 +73007,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240924092900 +0800" stop="20240924101400 +0800">
 		<title lang="zh">03_大嫁风尚</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240924101400 +0800" stop="20240924110700 +0800">
+		<title lang="zh">04_大嫁风尚</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -73077,6 +73095,9 @@
 	<programme channel="newtv炫舞未来" start="20240924094500 +0800" stop="20240924101200 +0800">
 		<title lang="zh">“糊涂”的老伴儿（20220110）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240924101200 +0800" stop="20240924112900 +0800">
+		<title lang="zh">幼儿园大班 厨龄三年 走进一所“烟火气”幼儿园（20240715）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -73133,6 +73154,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240924084300 +0800" stop="20240924100900 +0800">
 		<title lang="zh">四平警事之尖峰时刻</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240924100900 +0800" stop="20240924113900 +0800">
+		<title lang="zh">袁天罡之不死军团</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
