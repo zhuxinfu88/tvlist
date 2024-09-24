@@ -72702,6 +72702,9 @@
 	<programme channel="newtv精品大剧" start="20240924104300 +0800" stop="20240924112600 +0800">
 		<title lang="zh">12_乐游原</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240924112600 +0800" stop="20240924121500 +0800">
+		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -72758,6 +72761,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240924105100 +0800" stop="20240924112500 +0800">
 		<title lang="zh">06_走！住到户外去</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240924112500 +0800" stop="20240924120100 +0800">
+		<title lang="zh">第1集：森林的芳香</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -72845,6 +72851,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240924103700 +0800" stop="20240924112000 +0800">
 		<title lang="zh">22_谍战深海之惊蛰</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240924112000 +0800" stop="20240924120900 +0800">
+		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -73179,6 +73188,9 @@
 	<programme channel="newtv炫舞未来" start="20240924101200 +0800" stop="20240924112900 +0800">
 		<title lang="zh">幼儿园大班 厨龄三年 走进一所“烟火气”幼儿园（20240715）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240924112900 +0800" stop="20240924121700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -73214,6 +73226,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240924103100 +0800" stop="20240924111700 +0800">
 		<title lang="zh">42_长歌行</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240924111700 +0800" stop="20240924120300 +0800">
+		<title lang="zh">43_长歌行</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -73361,6 +73376,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240924103600 +0800" stop="20240924112400 +0800">
 		<title lang="zh">美国RN原装进口鲨鱼神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240924112400 +0800" stop="20240924120900 +0800">
+		<title lang="zh">47_少林寺传奇藏经阁</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
