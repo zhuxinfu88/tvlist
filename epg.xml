@@ -71937,6 +71937,9 @@
 	<programme channel="黑莓动画" start="20240924091600 +0800" stop="20240924095800 +0800">
 		<title lang="zh">小马宝莉：我的可爱标志上</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240924095800 +0800" stop="20240924102500 +0800">
+		<title lang="zh">百变校巴8</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72609,6 +72612,9 @@
 	<programme channel="newtv超级电视剧" start="20240924091700 +0800" stop="20240924100200 +0800">
 		<title lang="zh">07_最后一张签证</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240924100200 +0800" stop="20240924104500 +0800">
+		<title lang="zh">10_雁归西窗月</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -72644,6 +72650,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240924091000 +0800" stop="20240924095500 +0800">
 		<title lang="zh">10_乐游原</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240924095500 +0800" stop="20240924104300 +0800">
+		<title lang="zh">11_乐游原</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -72692,6 +72701,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240924092800 +0800" stop="20240924095200 +0800">
 		<title lang="zh">03_生前谈谈身后事</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240924095200 +0800" stop="20240924102600 +0800">
+		<title lang="zh">04_再进一个球！互联网人！</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -72768,6 +72780,9 @@
 	<programme channel="newtv军旅剧场" start="20240924091100 +0800" stop="20240924095900 +0800">
 		<title lang="zh">20_谍战深海之惊蛰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240924095900 +0800" stop="20240924103700 +0800">
+		<title lang="zh">21_谍战深海之惊蛰</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -72806,6 +72821,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240924091200 +0800" stop="20240924095500 +0800">
 		<title lang="zh">25_淑女涩男</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240924095500 +0800" stop="20240924104400 +0800">
+		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
