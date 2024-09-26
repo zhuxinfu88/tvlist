@@ -111,6 +111,9 @@
 	<programme channel="4K综艺" start="20240926212800 +0800" stop="20240926222600 +0800">
 		<title lang="zh">真心大冒险20180421</title>
 	</programme>
+	<programme channel="4K综艺" start="20240926222600 +0800" stop="20240926234700 +0800">
+		<title lang="zh">花儿与少年第一季20140425</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -32162,6 +32165,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240926221500 +0800" stop="20240926222000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240926222000 +0800" stop="20240926000000 +0800">
+		<title lang="zh">2024NBL季后赛半决赛G1 香港金牛-长沙湾田永胜</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -74202,6 +74208,9 @@
 	<programme channel="黑莓电影" start="20240926204300 +0800" stop="20240926221800 +0800">
 		<title lang="zh">东北告别天团</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240926221800 +0800" stop="20240926234900 +0800">
+		<title lang="zh">军情五处：利益之争</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -74981,6 +74990,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240926214900 +0800" stop="20240926223500 +0800">
 		<title lang="zh">10_江河之上</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240926223500 +0800" stop="20240926232200 +0800">
+		<title lang="zh">07_花琉璃轶闻</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
