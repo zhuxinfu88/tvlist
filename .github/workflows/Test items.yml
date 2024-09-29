@@ -35,7 +35,7 @@ jobs:
         run: pip install input
         
       - name: Run iptv
-        run: python ${{ github.workspace }}/set/#Detection.py
+        run: python ${{ github.workspace }}/set/#test.py
          
       - name: Commit results
         run: |
