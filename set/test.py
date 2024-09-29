@@ -118,7 +118,7 @@ for line in merged_output_lines:
         width, height,span_time= process_line(line)
         newline=f"{line},{width}x{height},{span_time}"
         new_merged_output_lines.append(newline)    #.append(f"{elapsed_time:.2f}ms,{result}")
-
+     print(f"合并后的文本已保存到文件: ok")
 
 # 将合并后的文本写入文件
 output_file = "test_merged_output.txt"
