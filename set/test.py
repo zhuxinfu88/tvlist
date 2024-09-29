@@ -92,7 +92,7 @@ def get_video_dimensions(url, timeout):
 # 处理单行文本并检测URL
 def process_line(line):
     if "#genre#" in line or "://" not in line :
-        return None, None  # 跳过包含“#genre#”的行
+        return None, None, None  # 跳过包含“#genre#”的行
     parts = line.split(',')
     if len(parts) == 2:
         name, url = parts
