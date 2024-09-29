@@ -17976,9 +17976,6 @@
 	<programme channel="东方卫视" start="20240929070000 +0800" stop="20240929070100 +0800">
 		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
-	<programme channel="东方卫视" start="20240929070100 +0800" stop="20240929080900 +0800">
-		<title lang="zh">看东方</title>
-	</programme>
 	<programme channel="东方卫视" start="20240929080900 +0800" stop="20240929081000 +0800">
 		<title lang="zh">天气预报</title>
 	</programme>
@@ -18030,10 +18027,10 @@
 	<programme channel="东方卫视" start="20240929162300 +0800" stop="20240929162700 +0800">
 		<title lang="zh">＜山花烂漫时＞精彩看点</title>
 	</programme>
-	<programme channel="东方卫视" start="20240929162700 +0800" stop="20240929172400 +0800">
+	<programme channel="东方卫视" start="20240929162700 +0800" stop="20240929172300 +0800">
 		<title lang="zh">我们的歌第六季精编（10）</title>
 	</programme>
-	<programme channel="东方卫视" start="20240929172400 +0800" stop="20240929180000 +0800">
+	<programme channel="东方卫视" start="20240929172300 +0800" stop="20240929180000 +0800">
 		<title lang="zh">百视大看点</title>
 	</programme>
 	<programme channel="东方卫视" start="20240929180000 +0800" stop="20240929185700 +0800">
@@ -54561,6 +54558,9 @@
 	<programme channel="纯享4K" start="20240929181400 +0800" stop="20240929182900 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 奥林匹克运动雕塑</title>
 	</programme>
+	<programme channel="纯享4K" start="20240929182900 +0800" stop="20240929183400 +0800">
+		<title lang="zh">萌兔的奇妙旅程4K 第3集</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -62394,6 +62394,9 @@
 	<programme channel="黑莓动画" start="20240929175700 +0800" stop="20240929182000 +0800">
 		<title lang="zh">动物兄弟第一季16</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240929182000 +0800" stop="20240929183300 +0800">
+		<title lang="zh">24_龙战士星源</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -62904,6 +62907,9 @@
 	<programme channel="newtv超级电视剧" start="20240929173400 +0800" stop="20240929181900 +0800">
 		<title lang="zh">03_我爱男保姆</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240929181900 +0800" stop="20240929190400 +0800">
+		<title lang="zh">30_女人的抗战</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -63132,6 +63138,9 @@
 	<programme channel="newtv古装剧场" start="20240929173000 +0800" stop="20240929181700 +0800">
 		<title lang="zh">24_嫣语赋</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240929181700 +0800" stop="20240929190400 +0800">
+		<title lang="zh">25_嫣语赋</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -63351,6 +63360,9 @@
 	<programme channel="newtv热播精选" start="20240929175500 +0800" stop="20240929182600 +0800">
 		<title lang="zh">风味人间</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240929182600 +0800" stop="20240929185600 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -63407,6 +63419,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240929173600 +0800" stop="20240929182100 +0800">
 		<title lang="zh">神飞航天研究院骨胶原蛋白肽-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240929182100 +0800" stop="20240929190700 +0800">
+		<title lang="zh">02_关东英雄</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -63681,6 +63696,9 @@
 	<programme channel="newtv军事评论" start="20240929175400 +0800" stop="20240929182100 +0800">
 		<title lang="zh">升空之前的极限考核 全机地面试验</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240929182100 +0800" stop="20240929184700 +0800">
+		<title lang="zh">战场上的生死对决 走进中国人民革命军事博物馆</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -63767,6 +63785,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240929173000 +0800" stop="20240929181800 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240929181800 +0800" stop="20240929190700 +0800">
+		<title lang="zh">于建英把《京华春早》唱给你听 “流行”“曲艺”“说唱”完美融合（20230606）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
