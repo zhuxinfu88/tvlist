@@ -92,7 +92,7 @@ def get_video_dimensions(url, timeout):
 # 处理单行文本并检测URL
 def process_line(line):
     if "#genre#" in line or "://" not in line :
-        return None, None, None  # 跳过包含“#genre#”的行
+        return None, None ,  None# 跳过包含“#genre#”的行
     parts = line.split(',')
     if len(parts) == 2:
         name, url = parts
@@ -105,20 +105,20 @@ def process_line(line):
 
 #########################分割线########################
 
-merged_output_lines=read_txt_to_array('./iptv.txt') 
+merged_output_lines=read_txt_to_array('merged_output.txt') 
 new_merged_output_lines=[]
 for line in merged_output_lines:
     if  "#genre#" in line:
         new_merged_output_lines.append(line)
     if  "://" not in line:
         new_merged_output_lines.append(line)
-    #if  "#genre#" not in line and "," in line and "://" in line:
+    if  "#genre#" not in line and "," in line and "://" in line:
         # elapsed_time, is_valid,width, height,span_time= process_line(line)
-      #  break  
+        # break  
         width, height,span_time= process_line(line)
         newline=f"{line},{width}x{height},{span_time}"
         new_merged_output_lines.append(newline)    #.append(f"{elapsed_time:.2f}ms,{result}")
-        
+
 
 # 将合并后的文本写入文件
 output_file = "test_merged_output.txt"
@@ -130,3 +130,5 @@ try:
 
 except Exception as e:
     print(f"保存文件时发生错误：{e}")
+
+
