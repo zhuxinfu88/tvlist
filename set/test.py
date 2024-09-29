@@ -100,7 +100,7 @@ def process_line(line):
         # return elapsed_time, is_valid,width, height,span_time
         width, height,span_time= get_video_dimensions(url.strip(), 6)
         return width, height,span_time
-    return  0,0,0,0,0
+    return  0,0,0
 
 
 #########################分割线########################
