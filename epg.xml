@@ -30462,6 +30462,9 @@
 	<programme channel="咪咕足球" start="20240929190000 +0800" stop="20240929192000 +0800">
 		<title lang="zh">荣耀之路03</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240929192000 +0800" stop="20240929193000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
 	</channel>
@@ -54570,6 +54573,9 @@
 	<programme channel="纯享4K" start="20240929183800 +0800" stop="20240929190800 +0800">
 		<title lang="zh">美丽中国说4K 中国香港</title>
 	</programme>
+	<programme channel="纯享4K" start="20240929190800 +0800" stop="20240929194800 +0800">
+		<title lang="zh">荣宝斋4K 第3集 斋藏绝技</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -62412,6 +62418,9 @@
 	<programme channel="黑莓动画" start="20240929184700 +0800" stop="20240929190100 +0800">
 		<title lang="zh">25_咖宝车神第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240929191500 +0800" stop="20240929193100 +0800">
+		<title lang="zh">10_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -62444,6 +62453,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240929170800 +0800" stop="20240929190100 +0800">
 		<title lang="zh">一八九四b7甲午大海战</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240929190100 +0800" stop="20240929202500 +0800">
+		<title lang="zh">东北轴神</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -63003,6 +63015,9 @@
 	<programme channel="newtv精品大剧" start="20240929184400 +0800" stop="20240929191400 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240929191400 +0800" stop="20240929200300 +0800">
+		<title lang="zh">25_三分野</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -63164,6 +63179,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240929181700 +0800" stop="20240929190400 +0800">
 		<title lang="zh">25_嫣语赋</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240929190400 +0800" stop="20240929193400 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -63456,6 +63474,9 @@
 	<programme channel="newtv爱情喜剧" start="20240929182100 +0800" stop="20240929190700 +0800">
 		<title lang="zh">02_关东英雄</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240929190700 +0800" stop="20240929193700 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -63497,6 +63518,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240929174100 +0800" stop="20240929190600 +0800">
 		<title lang="zh">街区斗士</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240929190600 +0800" stop="20240929193600 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -63741,6 +63765,9 @@
 	<programme channel="newtv军事评论" start="20240929184700 +0800" stop="20240929191400 +0800">
 		<title lang="zh">蓝海试锋 走进中国人民解放军海军博物馆</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240929191400 +0800" stop="20240929194100 +0800">
+		<title lang="zh">铁甲探奇 走进法国索缪尔战车博物馆</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -63831,6 +63858,9 @@
 	<programme channel="newtv炫舞未来" start="20240929181800 +0800" stop="20240929190700 +0800">
 		<title lang="zh">于建英把《京华春早》唱给你听 “流行”“曲艺”“说唱”完美融合（20230606）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240929190700 +0800" stop="20240929195600 +0800">
+		<title lang="zh">KGTOUE体感语音操控大吸力烟机（央广购物）（右）丨炫舞乐购</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -63903,6 +63933,9 @@
 	<programme channel="newtv精品综合" start="20240929183600 +0800" stop="20240929190300 +0800">
 		<title lang="zh">当燃是少年第2季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240929190300 +0800" stop="20240929193300 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -63947,6 +63980,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240929173600 +0800" stop="20240929190900 +0800">
 		<title lang="zh">火线追凶2之鹈鹕行动</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240929190900 +0800" stop="20240929203600 +0800">
+		<title lang="zh">守卫恶魔镇</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -64133,6 +64169,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240929184300 +0800" stop="20240929191300 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240929191300 +0800" stop="20240929195700 +0800">
+		<title lang="zh">02_飞狐外传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
