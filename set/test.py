@@ -115,7 +115,7 @@ for line in merged_output_lines:
     #if  "#genre#" not in line and "," in line and "://" in line:
         # elapsed_time, is_valid,width, height,span_time= process_line(line)
       #  break  
-        width, height,span_time= process_line(line)
+        height,span_time= process_line(line)
         newline=f"{line},{width}x{height},{span_time}"
         new_merged_output_lines.append(newline)    #.append(f"{elapsed_time:.2f}ms,{result}")
         
