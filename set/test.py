@@ -121,7 +121,7 @@ for line in merged_output_lines:
 
 
 # 将合并后的文本写入文件
-output_file = "test_merged_output.txt"
+output_file = "iptv_merged_output.txt"
 try:
     with open(output_file, 'w', encoding='utf-8') as f:
         for line in new_merged_output_lines:
