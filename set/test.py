@@ -105,7 +105,7 @@ def process_line(line):
 
 #########################分割线########################
 
-merged_output_lines=read_txt_to_array('./merged_output.txt') 
+merged_output_lines=read_txt_to_array('./iptv.txt') 
 new_merged_output_lines=[]
 for line in merged_output_lines:
     if  "#genre#" in line:
