@@ -36522,6 +36522,9 @@
 	<programme channel="咪咕足球" start="20241002092500 +0800" stop="20241002104500 +0800">
 		<title lang="zh">村BA</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241002104500 +0800" stop="20241002111000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
 	</channel>
@@ -65715,6 +65718,9 @@
 	<programme channel="纯享4K" start="20241002100900 +0800" stop="20241002103400 +0800">
 		<title lang="zh">魅力智利4K 第1集 靠近星星的你</title>
 	</programme>
+	<programme channel="纯享4K" start="20241002103400 +0800" stop="20241002105900 +0800">
+		<title lang="zh">魅力智利4K 第2集 山与海的盛宴</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -78003,6 +78009,9 @@
 	<programme channel="黑莓电影" start="20241002090900 +0800" stop="20241002104500 +0800">
 		<title lang="zh">二郎神之三目</title>
 	</programme>
+	<programme channel="黑莓电影" start="20241002104500 +0800" stop="20241002121600 +0800">
+		<title lang="zh">魔发精灵2</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -78696,6 +78705,9 @@
 	<programme channel="newtv古装剧场" start="20241002095000 +0800" stop="20241002104400 +0800">
 		<title lang="zh">29_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241002104400 +0800" stop="20241002113000 +0800">
+		<title lang="zh">30_天地姻缘七仙女</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -78734,6 +78746,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241002095700 +0800" stop="20241002104200 +0800">
 		<title lang="zh">08_香草美人</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241002104200 +0800" stop="20241002113800 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -78818,6 +78833,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241002094900 +0800" stop="20241002103400 +0800">
 		<title lang="zh">47_女医明妃传</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241002103400 +0800" stop="20241002111700 +0800">
+		<title lang="zh">48_女医明妃传</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -78926,6 +78944,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241002095800 +0800" stop="20241002104300 +0800">
 		<title lang="zh">39_好妻子</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241002104300 +0800" stop="20241002113100 +0800">
+		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
