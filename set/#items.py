@@ -61,15 +61,14 @@ for keyword in keywords:
         
 #    else:
 #        org = ""
-
+    province = "浙江电信"
     current_time = datetime.now()
     timeout_cnt = 0
     result_urls = set() 
     while len(result_urls) == 0 and timeout_cnt <= 5:
         try:
             search_url = 'https://fofa.info/result?qbase64='
-           #  search_txt = f'\"udpxy\" && country=\"CN\" && region=\"{province}\" && org=\"{org}\" && city=\"ShaoXing\" '
-              search_txt = f'\"udpxy\" && country=\"CN\" &&vregion=\"ZheJiang\" && org=\"{org}\" && city=\"ShaoXing\" '
+            search_txt = f'\"udpxy\" && country=\"CN\" && region=\"{province}\" && org=\"{org}\" && city=\"ShaoXing\" '
             bytes_string = search_txt.encode('utf-8')
 
             search_txt = base64.b64encode(bytes_string).decode('utf-8')
