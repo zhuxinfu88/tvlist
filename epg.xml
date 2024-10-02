@@ -78000,6 +78000,9 @@
 	<programme channel="黑莓动画" start="20241002105800 +0800" stop="20241002112500 +0800">
 		<title lang="zh">钶龙战记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241002112500 +0800" stop="20241002114900 +0800">
+		<title lang="zh">百变布鲁可第4季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78732,6 +78735,9 @@
 	<programme channel="newtv古装剧场" start="20241002104400 +0800" stop="20241002113000 +0800">
 		<title lang="zh">30_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241002113000 +0800" stop="20241002121500 +0800">
+		<title lang="zh">31_天地姻缘七仙女</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -78864,6 +78870,9 @@
 	<programme channel="newtv热播精选" start="20241002103400 +0800" stop="20241002111700 +0800">
 		<title lang="zh">48_女医明妃传</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241002111700 +0800" stop="20241002121500 +0800">
+		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -78899,6 +78908,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241002103000 +0800" stop="20241002112200 +0800">
 		<title lang="zh">04_绝密隐私</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241002112200 +0800" stop="20241002121300 +0800">
+		<title lang="zh">05_绝密隐私</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
