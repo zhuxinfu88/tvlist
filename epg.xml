@@ -78,6 +78,9 @@
 	<programme channel="4K综艺" start="20241002094300 +0800" stop="20241002102200 +0800">
 		<title lang="zh">我最爱的女人们20190726</title>
 	</programme>
+	<programme channel="4K综艺" start="20241002102200 +0800" stop="20241002110500 +0800">
+		<title lang="zh">我最爱的女人们20190727</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -78441,6 +78444,9 @@
 	<programme channel="newtv超级综艺" start="20241002091300 +0800" stop="20241002103400 +0800">
 		<title lang="zh">乐在旅途</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241002103400 +0800" stop="20241002115100 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -78474,6 +78480,9 @@
 	<programme channel="newtv超级体育" start="20241002093500 +0800" stop="20241002103500 +0800">
 		<title lang="zh">实况录像-2024年世界公路自行车锦标赛 男子决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241002103500 +0800" stop="20241002105500 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -78503,6 +78512,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20241002085300 +0800" stop="20241002103200 +0800">
 		<title lang="zh">雷霆追击</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20241002103200 +0800" stop="20241002120100 +0800">
+		<title lang="zh">我和我的父辈(上)</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -78840,6 +78852,9 @@
 	<programme channel="newtv爱情喜剧" start="20241002094100 +0800" stop="20241002103000 +0800">
 		<title lang="zh">03_绝密隐私</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241002103000 +0800" stop="20241002112200 +0800">
+		<title lang="zh">04_绝密隐私</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -78948,6 +78963,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241002093000 +0800" stop="20241002102500 +0800">
 		<title lang="zh">43_大嫁风尚</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241002102500 +0800" stop="20241002111000 +0800">
+		<title lang="zh">44_大嫁风尚</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -78974,6 +78992,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241002092800 +0800" stop="20241002102000 +0800">
 		<title lang="zh">血与火：第一次世界大战启示录 ② 最惨烈的战场</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241002102000 +0800" stop="20241002111000 +0800">
+		<title lang="zh">血与火：第一次世界大战启示录 ③ 东线风雷</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
