@@ -61,7 +61,8 @@ for keyword in keywords:
         
 #    else:
 #        org = ""
-    province = "浙江电信"
+    province = "浙江"
+    org = "浙江电信"
     current_time = datetime.now()
     timeout_cnt = 0
     result_urls = set() 
