@@ -78591,6 +78591,9 @@
 	<programme channel="newtv超级电视剧" start="20241002110100 +0800" stop="20241002114300 +0800">
 		<title lang="zh">11_誓盟</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241002114300 +0800" stop="20241002122400 +0800">
+		<title lang="zh">12_誓盟</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -78780,6 +78783,9 @@
 	<programme channel="newtv军旅剧场" start="20241002104200 +0800" stop="20241002113800 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241002113800 +0800" stop="20241002122300 +0800">
+		<title lang="zh">29_风声</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -78830,6 +78836,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241002110300 +0800" stop="20241002113700 +0800">
 		<title lang="zh">28_平安是福</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241002113700 +0800" stop="20241002122300 +0800">
+		<title lang="zh">11_我家有喜</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -78986,6 +78995,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241002104300 +0800" stop="20241002113100 +0800">
 		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241002113100 +0800" stop="20241002122600 +0800">
+		<title lang="zh">40_好妻子</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -79164,6 +79176,9 @@
 	<programme channel="newtv精品综合" start="20241002110000 +0800" stop="20241002114200 +0800">
 		<title lang="zh">33_女医明妃传</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20241002114200 +0800" stop="20241002123100 +0800">
+		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -79190,6 +79205,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241002100400 +0800" stop="20241002113400 +0800">
 		<title lang="zh">亡命演说</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241002113400 +0800" stop="20241002122400 +0800">
+		<title lang="zh">第四套人民币典藏大系-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
