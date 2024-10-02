@@ -69,7 +69,7 @@ for keyword in keywords:
     while len(result_urls) == 0 and timeout_cnt <= 5:
         try:
             search_url = 'https://fofa.info/result?qbase64='
-            search_txt = f'\"udpxy\" && country=\"CN\" && region=\"{province}\" && org=\"{org}\" && city=\"ShaoXing\" '
+            search_txt = f'\"udpxy\" && country=\"CN\" && region=\"{province}\" && org=\"{org}\" && city=\"NingBo\" '
             bytes_string = search_txt.encode('utf-8')
 
             search_txt = base64.b64encode(bytes_string).decode('utf-8')
