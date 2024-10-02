@@ -69,7 +69,7 @@ for keyword in keywords:
         try:
             search_url = 'https://fofa.info/result?qbase64='
            #  search_txt = f'\"udpxy\" && country=\"CN\" && region=\"{province}\" && org=\"{org}\" && city=\"ShaoXing\" '
-              search_txt = f'\"udpxy\" && country=\"CN\" && region=\"ZheJiang\" && org=\"{org}\" && city=\"ShaoXing\" '
+              search_txt = f'\"udpxy\" && country=\"CN\" &&vregion=\"ZheJiang\" && org=\"{org}\" && city=\"ShaoXing\" '
             bytes_string = search_txt.encode('utf-8')
 
             search_txt = base64.b64encode(bytes_string).decode('utf-8')
