@@ -138,7 +138,7 @@ class Hotel(Base):
         validated_ip = []
 
         tasks = [
-            self.is_url_accessible(f"http://{ip_address}/iptv/live/1000.json?key=txiptv")
+            self.is_url_accessible(f"http://{ip_address}/iptv/live/1000.json?key=txiptv&playlive=1&authid=0")
             for ip_address in ip
         ]
 
