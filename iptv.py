@@ -123,14 +123,6 @@ def main():
             if channel not in ['afreecatv']:
               write_to_file(os.path.join(M3U_DIR, channel_id + '.m3u'), m3u_content)
 
-            live_m3u_content += '\n'.join(m3u_content.split('\n')[1:]) + '\n'
-
-        except requests.exceptions.RequestException as e:
-            logger.error(f"Failed to download M3U file for channel {channel_id}: {e}")
-        except Exception as e:
-
-    write_to_file(os.path.join(M3U_DIR, 'Live.m3u'), live_m3u_content)
-    logger.info("Successfully merged and saved Live.m3u file")
 
     playlists = {
         "Hot": file_to_m3u("Hot.txt"),
