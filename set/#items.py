@@ -81,7 +81,7 @@ for keyword in keywords:
             html_content = response.text
 
             html_soup = BeautifulSoup(html_content, "html.parser")
-            # print(f"{current_time} html_content:{html_content}")
+            print(f"{current_time} html_content:{html_content}")
 
             pattern = r"http://\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d+"
             urls_all = re.findall(pattern, html_content)
