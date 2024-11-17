@@ -75,12 +75,10 @@ for keyword in keywords:
             search_url += search_txt
             print(f"{current_time} 查询运营商 : {province}{isp} ，查询网址 : {search_url}")
 
-
-headers = {
-        "referer": "https://www.baidu.com.com/",
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
-        "cookie" : "_ga=GA1.1.706124435.1725120803; HMACCOUNT=F209405EC9F3D75F; Hm_lvt_4275507ba9b9ea6b942c7a3f7c66da90=1730649235; __fcd=ZOC13HE0NVBFPPOB1CE50A7597925D79; acw_tc=276aede517317762090597860e59c0aff816aaa8f588e7ab26d49c6f0ee95c; Hm_lpvt_4275507ba9b9ea6b942c7a3f7c66da90=1731777657; _ga_9GWBD260K9=GS1.1.1731776046.36.1.1731777656.0.0.0"
-    }
+            headers = {"referer": "https://www.baidu.com.com/",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+            "cookie": "_ga=GA1.1.706124435.1725120803; HMACCOUNT=F209405EC9F3D75F; Hm_lvt_4275507ba9b9ea6b942c7a3f7c66da90=1730649235; __fcd=ZOC13HE0NVBFPPOB1CE50A7597925D79; acw_tc=276aede517317762090597860e59c0aff816aaa8f588e7ab26d49c6f0ee95c; Hm_lpvt_4275507ba9b9ea6b942c7a3f7c66da90=1731777657; _ga_9GWBD260K9=GS1.1.1731776046.36.1.1731777656.0.0.0"
+                      }
 
             response = requests.get(search_url, headers=headers, timeout=5)
  
