@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
 
-files = os.listdir('rtp')
+files = os.listdir('udp')
 
 files_name = []
 
@@ -29,7 +29,7 @@ keywords = []
 for province_isp in provinces_isps:
 
     try:
-        with open(f'rtp/{province_isp}.txt', 'r', encoding='utf-8') as file:
+        with open(f'udp/{province_isp}.txt', 'r', encoding='utf-8') as file:
             lines = file.readlines()
             lines = [line.strip() for line in lines if line.strip()]
 
