@@ -31,7 +31,7 @@ jobs:
         run: pip install translate requests 
         
       - name: Run iptv
-        run: python ${{ github.workspace }}/set/#items.py
+        run: python ${{ github.workspace }}/set/#jsitems.py
          
       - name: Commit results
         run: |
