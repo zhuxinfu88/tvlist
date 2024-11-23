@@ -53,7 +53,7 @@ for keyword in keywords:
         isp_en = "cucc"
         org = "CHINA UNICOM China169 Backbone"
     elif isp == "电信":
-        org = "Chinanet"
+        org = "China Telecom Group"
         isp_en = "ctcc"
     elif isp == "移动":
         org = "China Mobile communications corporation"
