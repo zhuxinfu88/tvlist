@@ -77,7 +77,7 @@ for keyword in keywords:
 
             headers = {"referer": "https://www.baidu.com/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
-            "cookie": "__ga=GA1.1.706124435.1725120803; Hm_lvt_4275507ba9b9ea6b942c7a3f7c66da90=1730649235,1732191192; HMACCOUNT=F209405EC9F3D75F; acw_tc=276aede017322702394295242e38f607b58c1583459edcd76088a91c01c74a; __fcd=N7R0EGFFACH5QSHX05667FFA7BEF95DC; Hm_lpvt_4275507ba9b9ea6b942c7a3f7c66da90=1732270261; _ga_9GWBD260K9=GS1.1.1732270239.42.1.1732270261.0.0.0"
+            "cookie": "_ga=GA1.1.706124435.1725120803; Hm_lvt_4275507ba9b9ea6b942c7a3f7c66da90=1730649235,1732191192; HMACCOUNT=F209405EC9F3D75F; __fcd=N7R0EGFFACH5QSHX05667FFA7BEF95DC; acw_tc=276aedd017323500450278175e55bc4920575ec644a12c2c07cbbfd1feef89; _ga_9GWBD260K9=GS1.1.1732350045.43.1.1732350701.0.0.0; Hm_lpvt_4275507ba9b9ea6b942c7a3f7c66da90=1732350701"
                       }
 
             response = requests.get(search_url, headers=headers, timeout=5)
