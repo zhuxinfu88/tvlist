@@ -77,7 +77,7 @@ for keyword in keywords:
 
             headers = {"referer": "https://www.baidu.com/",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
-            "cookie": "_ga=GA1.1.706124435.1725120803; HMACCOUNT=F209405EC9F3D75F; Hm_lvt_4275507ba9b9ea6b942c7a3f7c66da90=1730649235; acw_tc=276aede817321082051155111e01e5168201cecb3497f3c2dd760a771a5689; __fcd=PZTFBIEJEK7HIP1AE83390AF14C8E5C9; Hm_lpvt_4275507ba9b9ea6b942c7a3f7c66da90=1732108787; _ga_9GWBD260K9=GS1.1.1732108186.40.1.1732108795.0.0.0"
+            "cookie": "_ga=GA1.1.706124435.1725120803; Hm_lvt_4275507ba9b9ea6b942c7a3f7c66da90=1730649235,1732191192; HMACCOUNT=F209405EC9F3D75F; __fcd=N7R0EGFFACH5QSHX05667FFA7BEF95DC; Hm_lpvt_4275507ba9b9ea6b942c7a3f7c66da90=1732450686; _ga_9GWBD260K9=GS1.1.1732450370.48.1.1732450686.0.0.0"
                       }
 
             response = requests.get(search_url, headers=headers, timeout=5)
