@@ -1,0 +1,17 @@
+{
+    "主页url": "http://www.baipiaoys.com/",
+     //"备用url": "https://www.baipiaoys.cc/
+     //"备用url": "https://www.baipiaotv.vip/
+    "副标题": "pic-text text-right\">&&</b>",
+    "搜索模式": "1",
+    "搜索url": "https://www.baipiaoys.com/search.html?wd={wd}",
+    "图片": "data-original=\"&&\"",
+    "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+    "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+    "导演": "导演：&&</div>",
+    "主演": "主演：&&</div>",
+    "分类": "短剧$4#电影$1#电视剧$2#动漫$3#综艺$5",
+    "分类url": "http://www.baipiaoys.com/vod/type{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+    //"备用分类url":http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html
+    //"备用分类url":https://www.baipiaotv.vip/vodtype/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html
+}

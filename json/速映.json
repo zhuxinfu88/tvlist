@@ -1,0 +1,18 @@
+{
+				"站名": "速映影视",
+				"主页url": "http://www.suying.life/",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5#",
+				"分类url": "http://www.suying.life/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
+				"图片": "data-original=\"&&\"",
+				"标题": "小盒酷玩-+title=\"&&\"",
+				"链接": "href=\"&&\"",
+				"搜索模式": "1",
+				"年代": "年份：&&</a>",
+				"地区": "地区：&&</a>",
+				"类型": "类型：&&</a>",
+				"导演": "导演：&&</p>",
+				"主演": "主演：&&</p>",
+				"简介": "小盒酷玩提醒您：请勿相信影片中的广告，以免上当受骗。+eight: 20px;\">&&</p>",
+				"嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+				"播放链接": "href=\"&&\""
+			}
