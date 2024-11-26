@@ -1,0 +1,72 @@
+{
+
+"主页url": "http://www.tvyb03.com/",
+
+"编码": "UTF-8",
+
+"热门推荐": "30",
+
+"请求头": "手机",
+
+"播放请求头": "手机",
+
+"嗅探词": ".m3u8#.mp4#.flv",
+
+"起始页": "1",
+
+"分类url":"/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;mak",
+
+"分类": "电影$1#剧集$2#综艺$3#动漫$4",
+
+"数组":"myui-vodlist__box\">&&</a>",
+
+"图片":"data-original=\"&&\"",
+
+"标题": "title=\"&&\"",
+
+"副标题": "class=\"tag\" style=*>&&</span>",
+
+"链接": "href=\"&&\"",
+
+"线路数组":"</a><h3&&/h3>",
+
+"线路标题":">&&<",
+
+"播放数组":"myui-content__list scrollbar&&</ul>",
+                                 
+"播放列表":"<a&&/a>",
+
+"播放标题":">&&<",
+
+"播放链接":"href=\"&&\"",
+
+
+"影片类型":"分类：</span>&&</span>",
+
+"影片年代":"年份：</span>&&</span>",
+
+"影片地区":"地区：</span>&&</span>",
+
+"影片状态":"更新：&&</p>",
+
+"导演": "导演：&&</p>",
+
+"主演": "主演：&&</p>",
+
+"简介":"sketch content\">&&</span>",
+
+"搜索url":"/vod/search/page/{catePg}/wd/{wd}.html;post;searchword={wd}",
+
+"搜索模式":"1",
+
+"搜索数组":"myui-vodlist__thumb&&</a>",
+
+"搜索图片":"data-original=\"&&\"",
+
+"搜索标题": "title=\"&&\"",
+
+"搜索副标题": "class=\"tag\" style=*>&&</span>",
+
+"搜索链接": "href=\"&&\""
+
+}
