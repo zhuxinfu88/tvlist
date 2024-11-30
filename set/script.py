@@ -946,7 +946,7 @@ with open('txt_files/g.txt', 'r', encoding='utf-8') as file1:
 #star#########################
 #enter#############################################################################################
 
-keywords = ['CCTV','CCTV欧','CCTV美','CETV','CGTN','CF', 'IPT淘', 'CHC', 'IWA', '凤凰卫视', '星空', 'CHANNEL', 'W','卫视', 'X','Y']  #enter
+keywords = ['CCTV','CCTV欧','CCTV美','CETV','CGTN','新闻综合','东方影视','都市剧场','东方财经','纪实人文','上海外语','生活时尚','极速汽车','CF', 'IPT淘', 'CHC', 'IWA', '凤凰卫视', '星空', 'CHANNEL', 'W','卫视', 'X','Y']  #enter
 
 pattern = '|'.join(keywords)  #enter
 
