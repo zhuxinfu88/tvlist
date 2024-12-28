@@ -39,8 +39,8 @@ jobs:
 
     - name: Commit and push if changed
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --local user.email "zhuxinfu@sohu.com"
+        git config --local user.name "zhuxinfu88"
         git add -A
         if ! git diff --staged --quiet; then
           git commit -m "Auto-update live files"
