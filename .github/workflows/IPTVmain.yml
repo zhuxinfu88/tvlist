@@ -44,7 +44,7 @@ jobs:
             git config --local user.name "zhuxinfu88"
             if [ -n "$(git status --porcelain)" ]; then
             git commit -am "Automatic update"
-            git push 
+            git push -f
             else
               echo "No changes detected, skipping commit."
             fi
