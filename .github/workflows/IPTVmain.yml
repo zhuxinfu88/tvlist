@@ -4,9 +4,9 @@ on:
   schedule:
     - cron: '45 21 * * *'
   workflow_dispatch:
-    branches:
+    分支:
       - main
-
+      
 jobs:
   run_script:
     runs-on: ubuntu-latest
@@ -38,12 +38,11 @@ jobs:
     - name: Commit and push if changed
       run: |
         git config --local user.email "zhuxinfu@sohu.com"
-            git config --local user.name "zhuxinfu88" 
+        git config --local user.name "zhuxinfu88" 
         git add -A
-        if ! git diff --staged --quiet; then
-          git commit -m "Auto-update live files"
-          git push
+        if [ -n "$(git status --porcelain)" ]; then
+        git commit -am "Automatic update"
+        git push  
         fi
 
-    env:
-      TZ: Asia/Shanghai
+ 
