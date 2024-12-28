@@ -1,4 +1,4 @@
-p_version_priority = "ipv6"
+ip_version_priority = "ipv6"
 
 source_urls = [
     
