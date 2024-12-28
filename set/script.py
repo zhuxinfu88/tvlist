@@ -736,7 +736,7 @@ import fileinput
 file_contents = []   #enter
 
 #enter
-file_paths = ['txt_files/Sus.txt','txt_files/Susa.txt','txt_files/Susaw.txt','txt_files/gaa-SPD.txt','txt_files/gaar-SPD.txt','https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhuxinfu88/iptvyx/refs/heads/main/st1.txt',"txt_files/ga.txt",]
+file_paths = ['txt_files/Sus.txt','txt_files/Susa.txt','txt_files/Susaw.txt','txt_files/gaa-SPD.txt','txt_files/gaar-SPD.txt',"txt_files/ga.txt",]
 
 
 
