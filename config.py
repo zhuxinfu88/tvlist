@@ -36,7 +36,7 @@ url_blacklist = [
 
 announcements = [
     {
-        "channel": "公告",
+        "channel": "酒儿公告",
         "entries": [
             {"name": "请阅读", "url": "https://liuliuliu.tv/api/channels/1997/stream", "logo": "http://175.178.251.183:6689/LR.jpg"},
             {"name": "yuanzl77.github.io", "url": "https://liuliuliu.tv/api/channels/233/stream", "logo": "http://175.178.251.183:6689/LR.jpg"},
