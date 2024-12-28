@@ -4,6 +4,7 @@ source_urls = [
     
     "https://raw.githubusercontent.com/zhuxinfu88/tvlist/refs/heads/main/iptv.txt",
     "https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt"
+    "https://github.com/zhuxinfu88/collect-tv-txt/edit/main/merged_output.txt"
   
    
 ]
