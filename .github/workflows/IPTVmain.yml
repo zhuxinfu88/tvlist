@@ -35,7 +35,7 @@ jobs:
         pip install requests
 
     - name: Run Python script
-      run: python main.py
+      run: python IPTVmain.py
 
     - name: Commit and push if changed
       run: |
