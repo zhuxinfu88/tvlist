@@ -1,12 +1,14 @@
-name: Daily Update
+
+
+name: zhuxinfu Update
 
 on:
   schedule:
     - cron: '45 21 * * *'
   workflow_dispatch:
-    分支:
+    branches:
       - main
-permissions: write-all      
+permissions: write-all
 jobs:
   run_script:
     runs-on: ubuntu-latest
@@ -33,16 +35,18 @@ jobs:
         pip install requests
 
     - name: Run Python script
-      run: python IPTVmain.py
+      run: python main.py
 
     - name: Commit and push if changed
       run: |
-        git config --local user.email "zhuxinfu@sohu.com"
-        git config --local user.name "zhuxinfu88" 
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         git add -A
-        if [ -n "$(git status --porcelain)" ]; then
-        git commit -am "Automatic update"
-        git push  
+        if ! git diff --staged --quiet; then
+          git commit -m "Auto-update live files"
+          git push
         fi
 
+    env:
+      TZ: Asia/Shanghai
  
