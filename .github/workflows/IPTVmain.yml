@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     分支:
       - main
-      
+permissions: write-all      
 jobs:
   run_script:
     runs-on: ubuntu-latest
