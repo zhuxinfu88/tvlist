@@ -4,10 +4,11 @@ name: zhuxinfu Update
 
 on:
   schedule:
-    - cron: '45 21 * * *'
+  - cron: '45 21 * * *'
   workflow_dispatch:
-    branches:
+    分支:
       - main
+     
 permissions: write-all
 jobs:
   run_script:
@@ -43,7 +44,7 @@ jobs:
             git config --local user.name "zhuxinfu88"
             if [ -n "$(git status --porcelain)" ]; then
             git commit -am "Automatic update"
-            git push origin master 
+            git push 
             else
               echo "No changes detected, skipping commit."
             fi
