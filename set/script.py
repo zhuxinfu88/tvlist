@@ -1119,7 +1119,7 @@ for line in lines:
 
 with open('iptv.txt', 'w', encoding="utf-8") as file:
     for name, urls in url_dict.items():
-        merged_url = f"{name}, {'#'.join(urls)}\n"
-        file.write(merged_url)
+        #merged_url = f"{name}, {'#'.join(urls)}\n"
+       file.write(merged_url)
 
 print("Processing complete")
