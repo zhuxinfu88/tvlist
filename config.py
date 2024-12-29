@@ -1,7 +1,7 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-   
+    "https://raw.githubusercontent.com/250992941/TV/refs/heads/master/output/result.txt"  
     "https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt",
     "https://raw.githubusercontent.com/zhuxinfu88/tvlist/refs/heads/main/iptv.txt",
     "https://raw.githubusercontent.com/zhuxinfu88/collect-tv-txt/refs/heads/main/live.txt"
