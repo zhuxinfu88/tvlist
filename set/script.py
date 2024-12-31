@@ -967,7 +967,7 @@ for line in fileinput.input("txt_files/T1.txt", inplace=True):  #enter
 #enter
 with open('txt_files/TT1.txt', 'a', encoding='utf-8') as TT1:    #####enter
 
-    TT1.write('\n#shougong\n')        
+    TT1.write('\n央视频道,#genre#\n')        
  
     print(line, end="")  #enter 
 #enter
