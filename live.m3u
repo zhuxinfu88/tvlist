@@ -3714,21 +3714,21 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 #EXTINF:-1 tvg-id="10" tvg-name="延边卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/延边卫视.png" group-title="卫视频道",延边卫视
 http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$『线路10』
 #EXTINF:-1 tvg-id="1" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/第一财经.png" group-title="上海频道",第一财经
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226172/index.m3u8$『线路1』
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281$『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/第一财经.png" group-title="上海频道",第一财经
-http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281$『线路2』
+http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281$『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/第一财经.png" group-title="上海频道",第一财经
-http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281$『线路3』
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IAS$『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/第一财经.png" group-title="上海频道",第一财经
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IAS$『线路4』
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281$『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/第一财经.png" group-title="上海频道",第一财经
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281$『线路5』
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281$『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/第一财经.png" group-title="上海频道",第一财经
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281$『线路6』
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/第一财经.png" group-title="上海频道",第一财经
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$『线路7』
+http://[2409:8087:5e08:24::11]:6610/000000001000/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3$『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/第一财经.png" group-title="上海频道",第一财经
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3$『线路8』
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226172/index.m3u8$『线路8』
 #EXTINF:-1 tvg-id="1" tvg-name="上海纪实" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/上海纪实.png" group-title="上海频道",上海纪实
 http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8$『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="上海纪实" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/上海纪实.png" group-title="上海频道",上海纪实
@@ -3744,15 +3744,15 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3
 #EXTINF:-1 tvg-id="7" tvg-name="上海纪实" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/上海纪实.png" group-title="上海频道",上海纪实
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8$『线路7』
 #EXTINF:-1 tvg-id="1" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/上海都市.png" group-title="上海频道",上海都市
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226753/index.m3u8$『线路1』
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/上海都市.png" group-title="上海频道",上海都市
-http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$『线路2』
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281$『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/上海都市.png" group-title="上海频道",上海都市
-http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281$『线路3』
+http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281$『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/上海都市.png" group-title="上海频道",上海都市
-http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281$『线路4』
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3$『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/上海都市.png" group-title="上海频道",上海都市
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3$『线路5』
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226753/index.m3u8$『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/上海都市.png" group-title="上海频道",上海都市
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281$『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/上海都市.png" group-title="上海频道",上海都市
@@ -3786,15 +3786,15 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?
 #EXTINF:-1 tvg-id="8" tvg-name="东方影视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方影视.png" group-title="上海频道",东方影视
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3$『线路8』
 #EXTINF:-1 tvg-id="1" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方财经.png" group-title="上海频道",东方财经
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226602/index.m3u8$『线路1』
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000007000010003/1.m3u8$『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方财经.png" group-title="上海频道",东方财经
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000007000010003/1.m3u8$『线路2』
+http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281$『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方财经.png" group-title="上海频道",东方财经
-http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281$『线路3』
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281$『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方财经.png" group-title="上海频道",东方财经
-http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281$『线路4』
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3$『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方财经.png" group-title="上海频道",东方财经
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3$『线路5』
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226602/index.m3u8$『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方财经.png" group-title="上海频道",东方财经
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281$『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方财经.png" group-title="上海频道",东方财经
@@ -3880,19 +3880,19 @@ http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226620/index.
 #EXTINF:-1 tvg-id="9" tvg-name="新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/新闻综合.png" group-title="上海频道",新闻综合
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3$『线路9』
 #EXTINF:-1 tvg-id="1" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/生活时尚.png" group-title="上海频道",生活时尚
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226358/index.m3u8$『线路1』
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281$『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/生活时尚.png" group-title="上海频道",生活时尚
-http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281$『线路2』
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=YanG-1989$『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/生活时尚.png" group-title="上海频道",生活时尚
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=YanG-1989$『线路3』
+http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281$『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/生活时尚.png" group-title="上海频道",生活时尚
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281$『线路4』
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226358/index.m3u8$『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/生活时尚.png" group-title="上海频道",生活时尚
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226358/index.m3u8$『线路5』
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281$『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/生活时尚.png" group-title="上海频道",生活时尚
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281$『线路6』
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/生活时尚.png" group-title="上海频道",生活时尚
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$『线路7』
+http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226358/index.m3u8$『线路7』
 #EXTINF:-1 tvg-id="1" tvg-name="纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/纪实人文.png" group-title="上海频道",纪实人文
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226174/index.m3u8$『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/纪实人文.png" group-title="上海频道",纪实人文
