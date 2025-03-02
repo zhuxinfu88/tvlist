@@ -1,5 +1,8 @@
 import requests
 
+on:
+  schedule:
+  - cron: '03 16,20,00,5,8,12 * * *' 
 # 原始节目源地址
 origin_url = "https://raw.githubusercontent.com/gzj7003/tvlist/main/txt_files/江苏电信.txt"
 
