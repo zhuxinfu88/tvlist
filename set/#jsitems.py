@@ -87,6 +87,31 @@ for keyword in keywords:
             html_content = response.text
 
             html_soup = BeautifulSoup(html_content, "html.parser")
+
+            # 原始代码
+with open(江苏电信.txt, 'w') as new_file:
+    for url in valid_ips:
+        new_data = data.replace("rtp://", f"{url}/rtp/")
+        new_file.write(new_data)
+
+# 修改后代码
+with open(江苏电信.txt, 'w') as new_file:
+    # 保留原始内容
+    for url in valid_ips:
+        new_data = data.replace("rtp://", f"{url}/rtp/")
+        new_file.write(new_data)
+    
+    # 新增定制内容
+    new_file.write("\n# 苏州新闻综合\n")
+    new_file.write("苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8\n")
+    new_file.write("\n# 苏州社会经济\n")
+    new_file.write("苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8\n")
+    new_file.write("\n# 苏州文化生活\n")
+    new_file.write("苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8\n")
+    new_file.write("\n# 苏州生活资讯\n")
+    new_file.write("苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8\n")
+
+              
             print(f"{current_time} html_content:{html_content}")
 
             pattern = r"http://\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d+"
