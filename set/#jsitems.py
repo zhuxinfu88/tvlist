@@ -124,13 +124,13 @@ for keyword in keywords:
                     data = file.read()
                 txt_filename = f'txt_files/{province}{isp}.txt'
 # 原始代码
-with open(江苏电信.txt, 'w') as new_file:
+with open(txt_filename, 'w') as new_file:
     for url in valid_ips:
         new_data = data.replace("rtp://", f"{url}/rtp/")
         new_file.write(new_data)
 
 # 修改后代码
-with open(江苏电信.txt, 'w') as new_file:
+with open(txt_filename, 'w') as new_file:
     # 保留原始内容
     for url in valid_ips:
         new_data = data.replace("rtp://", f"{url}/rtp/")
