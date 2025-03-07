@@ -87,7 +87,6 @@ for keyword in keywords:
             html_content = response.text
 
             html_soup = BeautifulSoup(html_content, "html.parser")
-            
             print(f"{current_time} html_content:{html_content}")
 
             pattern = r"http://\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d+"
@@ -116,6 +115,114 @@ for keyword in keywords:
                         valid_ips.append(url)
 
                     cap.release()
+                    
+            if valid_ips:
+
+                rtp_filename = f'udpjs/{province}_{isp}.txt'
+                with open(rtp_filename, 'r', encoding='utf-8') as file:
+                    data = file.read()
+                txt_filename = f'txt_files/{province}{isp}.txt'
+                # 原始代码
+                with open(txt_filename, 'w') as new_file:
+                    for url in valid_ips:
+                        new_data = data.replace("rtp://", f"{url}/rtp/")
+                        new_file.write(new_data)
+                        
+                # 修改后代码
+                with open(txt_filename, 'w') as new_file:
+                    
+                    # 保留原始内容
+                    for url in valid_ips:
+                        new_data = data.replace("rtp://", f"{url}/rtp/")
+                        new_file.write(new_data)
+                        
+                    # 新增定制内容
+                    new_file.write("\n# 苏州新闻综合\n")
+                    new_file.write("苏州新闻综合,https://live-auth.51kandianshi.com/szgd/cs
+                    new_file.write("\n# 苏州社会经济\n")
+                    new_file.write("苏州社会经济,https://live-auth.51kandianshi.com/szgd/cs
+                    new_file.write("\n# 苏州文化生活\n")
+                    new_file.write("苏州文化生活,https://live-auth.51kandianshi.com/szgd/cs
+                    new_file.write("\n# 苏州生活资讯\n")
+                    new_file.write("苏州生活资讯,https://live-auth.51kandianshi.com/szgd/cs
+                
+                                       
+                print(f'已生成播放列表，保存至 {txt_filename}')
+
+        except (requests.Timeout, requests.RequestException) as e:
+            timeout_cnt += 1
+            print(f"{current_time} [{province}] 搜索请求发生超时，异常次数：{timeout_cnt}")
+            if timeout_cnt <= 3:
+
+                continue
+            else:
+                print(f"{current_time} 搜索IPTV频道源[{province}{isp}]，超时次数过多：{timeout_cnt} 次，停止处理")
+
+print('节目表制作完成！ 文件输出在 txt_files 目录下！')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
                     
             if valid_ips:
 
