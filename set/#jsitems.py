@@ -1,3 +1,10 @@
+# 在文件开头添加正则表达式预编译
+CTV_PATTERN = re.compile(r'(CCTV|央视)([1-9]|1[0-5])\b')
+CUSTOM_CHANNEL = "苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8"
+CUSTOM_CHANNEL = "苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8"
+CUSTOM_CHANNEL = "苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8"
+CUSTOM_CHANNEL = "苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8"
+CUSTOM_CHANNEL = "苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8"
 import os
 import requests
 import re
@@ -116,46 +123,59 @@ for keyword in keywords:
                         valid_ips.append(url)
 
                     cap.release()
-                    
-            if valid_ips:
 
+            # 修改文件生成部分（约第87行开始）
+            if valid_ips:
                 rtp_filename = f'udpjs/{province}_{isp}.txt'
                 with open(rtp_filename, 'r', encoding='utf-8') as file:
                     data = file.read()
                 txt_filename = f'txt_files/{province}{isp}.txt'
-                # 原始代码
-                with open(txt_filename, 'w') as new_file:
-                    for url in valid_ips:
-                        new_data = data.replace("rtp://", f"{url}/rtp/")
-                        new_file.write(new_data)
 
-                # 修改后代码
-                with open(txt_filename, 'w') as new_file:
-                    
-                    # 保留原始内容
-                    for url in valid_ips:
-                        new_data = data.replace("rtp://", f"{url}/rtp/")
-                        new_file.write(new_data)
+                # 创建频道容器
+                channel_store = {}
     
-                    # 新增定制内容
-                    new_file.write("\n# 苏州新闻综合\n")
-                    new_file.write("苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8\n")
-                    new_file.write("\n# 苏州社会经济\n")
-                    new_file.write("苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8\n")
-                    new_file.write("\n# 苏州文化生活\n")
-                    new_file.write("苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8\n")
-                    new_file.write("\n# 苏州生活资讯\n")
-                    new_file.write("苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8\n") 
-                       
-                print(f'已生成播放列表，保存至 {txt_filename}')
+                # 处理每个有效代理IP
+                for url in valid_ips:
+                    new_data = data.replace("rtp://", f"{url}/rtp/")
+        
+                    # 解析和过滤频道
+                    for line in new_data.split('\n'):
+                        line = line.strip()
+                        if not line:
+                            continue
+            
+                        # 分割频道名称和URL
+                        if ',' in line:
+                            channel_name, channel_url = line.split(',', 1)
+                        else:
+                            continue
+            
+                        # 频道过滤逻辑
+                        keep_channel = False
+                        if CTV_PATTERN.search(channel_name):
+                            keep_channel = True
+                        elif '卫视' in channel_name:
+                            keep_channel = True
+            
+                        # 有效频道存储（以频道名称为键去重）
+                        if keep_channel:
+                            channel_store[channel_name] = channel_url
+    
+            # 添加定制频道
+            custom_name, custom_url = CUSTOM_CHANNEL.split(',', 1)
+            channel_store[custom_name] = custom_url
+    
+            # 生成最终内容
+            formatted_channels = []
+            for name, url in channel_store.items():
+                # 有效性验证（可选）
+                cap = cv2.VideoCapture(url)
+                if cap.isOpened():
+                    cap.release()
+                    formatted_channels.append(f"{name},{url}")
+    
+            # 写入文件
+            with open(txt_filename, 'w', encoding='utf-8') as new_file:
+                new_file.write('\n'.join(sorted(formatted_channels)))
 
-        except (requests.Timeout, requests.RequestException) as e:
-            timeout_cnt += 1
-            print(f"{current_time} [{province}] 搜索请求发生超时，异常次数：{timeout_cnt}")
-            if timeout_cnt <= 3:
-
-                continue
-            else:
-                print(f"{current_time} 搜索IPTV频道源[{province}{isp}]，超时次数过多：{timeout_cnt} 次，停止处理")
-
-print('节目表制作完成！ 文件输出在 txt_files 目录下！')
+            print(f'已生成播放列表，保存至 {txt_filename}')
