@@ -179,3 +179,13 @@ for keyword in keywords:
                 new_file.write('\n'.join(sorted(formatted_channels)))
 
             print(f'已生成播放列表，保存至 {txt_filename}')
+
+    except (requests.Timeout, requests.RequestException) as e:
+        timeout_cnt += 1
+        print(f"{current_time} [{province}] 搜索请求发生超时，异常次数：{timeout_cnt}")
+        if timeout_cnt <= 3:
+            continue
+        else:
+            print(f"{current_time} 搜索IPTV频道源[{province}{isp}]，超时次数过多：{timeou
+print('节目表制作完成！ 文件输出在 txt_files 目录下！')
+
