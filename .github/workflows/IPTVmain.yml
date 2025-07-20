@@ -4,7 +4,7 @@ name: zhuxinfu Update
 
 on:
   schedule:
-  - cron: '45 21 * * *'
+ # - cron: '45 21 * * *'
   workflow_dispatch:
     分支:
       - main
