@@ -2,7 +2,7 @@ name: Test items
 
 on:
   schedule:
-  - cron: '15 18 * * *' 
+ # - cron: '15 18 * * *' 
   workflow_dispatch:
     分支:
       - main
