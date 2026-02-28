@@ -2,7 +2,7 @@ name: project bjscript
 
 on:
   schedule:
-  - cron: '01 13,17,21,5,8,12 * * *'  #6>10>14>18>22>2&&&
+  #- cron: '01 13,17,21,5,8,12 * * *'  #6>10>14>18>22>2&&&
   workflow_dispatch:
     分支:
       - main
