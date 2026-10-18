@@ -1,8 +1,7 @@
-
-2
-3
-4
 {
-  "vc":101,
-  "url":"https://gh-proxy.com/https://github.com/zhuxinfu88/tvlist/releases/download/v1.1.1/JiuEr_release-armeabi-generic.apk"
+  "versionCode": 2,
+  "versionName": "1.1",
+  "desc": "优化体验，新增OTA自动升级",
+  "apkUrl": "https://gh-proxy.com/https://github.com/zhuxinfu88/tvlist/releases/download/v1.1.1/JiuEr_release-armeabi-generic.apk",
+  "force": false
 }
